@@ -1,0 +1,6 @@
+{
+  "name": "BLACKVAULT — Cyberpunk Underground Marketplace Simulation",
+  "description": "Fictional dark web inspired cyberpunk marketplace simulation featuring encrypted digital goods, 3D interactive holographic vault, demo wallet, and terminal interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
